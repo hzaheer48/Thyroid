@@ -33,7 +33,7 @@ This project employs Multinomial Naive Bayes, Support Vector Machine (SVM), Rand
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hyperthyroidism-detection.git
+   git clone https://github.com/hzaheer48/hyperthyroidism-detection.git
    cd hyperthyroidism-detection
    ```
 
